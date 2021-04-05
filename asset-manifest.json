@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio-lucia/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/portfolio-lucia/static/js/main.d91b4735.chunk.js",
+    "main.js.map": "/portfolio-lucia/static/js/main.d91b4735.chunk.js.map",
+    "runtime-main.js": "/portfolio-lucia/static/js/runtime-main.4db06d5a.js",
+    "runtime-main.js.map": "/portfolio-lucia/static/js/runtime-main.4db06d5a.js.map",
+    "static/js/2.4568997a.chunk.js": "/portfolio-lucia/static/js/2.4568997a.chunk.js",
+    "static/js/2.4568997a.chunk.js.map": "/portfolio-lucia/static/js/2.4568997a.chunk.js.map",
+    "static/js/3.7567cd2c.chunk.js": "/portfolio-lucia/static/js/3.7567cd2c.chunk.js",
+    "static/js/3.7567cd2c.chunk.js.map": "/portfolio-lucia/static/js/3.7567cd2c.chunk.js.map",
+    "index.html": "/portfolio-lucia/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/portfolio-lucia/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.4568997a.chunk.js.LICENSE.txt": "/portfolio-lucia/static/js/2.4568997a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/portfolio-lucia/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4db06d5a.js",
+    "static/js/2.4568997a.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.d91b4735.chunk.js"
+  ]
+}
